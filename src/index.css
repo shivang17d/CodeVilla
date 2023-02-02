@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+        'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+        'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    /*CodePen*/
+    background-color: #514253;
+    background : -webkit-gradient(linear, 0 0, 100% 100%, color-stop(0, #003073), color-stop(100%, #029797));
+    background : -webkit-linear-gradient(135deg, #1c1e29, #029797);
+    background : -moz-linear-gradient(45deg, #1c1e29, #330131);
+    background : -ms-linear-gradient(45deg, #380447 0, #8d0f35 100%);
+    background : -o-linear-gradient(45deg, #1c1e29, #029797);
+    background : linear-gradient(135deg, #035244, #701e64);
+}
+
+
+
